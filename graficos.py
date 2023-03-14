@@ -6,8 +6,8 @@ from matplotlib import lines
 from matplotlib import patches
 from matplotlib.patheffects import withStroke
 
-counts = [1, 3, 21, 4, 25]
-names = ["Recursos(Cotistas)", "Recursos", "Inaptos", "Aptos", "Aprovados"]
+counts = [148, 179, 208, 295, 424, 500, 605, 738, 1010, 1155, 1326, 1467, 1620]
+names = ["1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010"]
 
 # The positions for the bars
 # This allows us to determine exactly where each bar is located
